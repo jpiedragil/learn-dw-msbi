@@ -1,3 +1,8 @@
 # Section 6 data files
 3_crime.csv
 InvalidData.txt
+
+# Section 7 data files
+4_MoviesData/1_OriginalFile/**
+4_MoviesData/2_PreparedFile/**
+4_MoviesData/3_LoadFile/**
