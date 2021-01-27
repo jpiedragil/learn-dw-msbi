@@ -1,0 +1,101 @@
+Manufacturer;Model;Sale Date;Fuel_efficiency;Sold Price in Thousands
+Acura;Integra;3/21/2018;28;$16.92
+Acura;TL;3/22/2018;25;$39.38
+Acura;RL;3/23/2018;26;$8.59
+Audi;A4;3/24/2018;22;$20.40
+Audi;A6;3/25/2018;27;$18.78
+Audi;A8;3/26/2018;22;$1.38
+BMW;328i;3/27/2018;21;$9.23
+BMW;528i;3/28/2018;26;$17.53
+Buick;Century;3/29/2018;24;$91.56
+Buick;Regal;3/30/2018;25;$39.35
+Buick;Park Avenue;3/31/2018;25;$27.85
+Buick;LeSabre;4/1/2018;23;$83.26
+Cadillac;DeVille;4/2/2018;24;$63.73
+Cadillac;Seville;4/3/2018;25;$15.94
+Cadillac;Eldorado;4/4/2018;22;$6.54
+Cadillac;Catera;4/5/2018;22;$11.19
+Chevrolet;Cavalier;4/6/2018;22;$145.52
+Chevrolet;Malibu;4/7/2018;22;$135.13
+Chevrolet;Lumina;4/8/2018;15;$24.63
+Chevrolet;Monte Carlo;4/9/2018;27;$42.59
+Chevrolet;Camaro;4/10/2018;25;$26.40
+Chevrolet;Corvette;4/11/2018;25;$17.95
+Chevrolet;Prizm;4/12/2018;27;$32.30
+Chevrolet;Metro;4/13/2018;25;$21.86
+Chrysler;Sebring Coupe;4/14/2018;22;$7.85
+Chrysler;Sebring Conv.;4/15/2018;33;$32.78
+Chrysler;Concorde;4/16/2018;45;$31.15
+Chrysler;Cirrus;4/17/2018;27;$32.31
+Chrysler;LHS;4/18/2018;24;$13.46
+Dodge;Neon;4/19/2018;24;$76.03
+Dodge;Avenger;4/20/2018;26;$4.73
+Dodge;Stratus;4/21/2018;27;$71.19
+Dodge;Viper;4/22/2018;23;$0.92
+Dodge;Ram Pickup;4/23/2018;;$227.06
+Dodge;Ram Wagon;4/24/2018;23;$16.77
+Dodge;Ram Van;4/25/2018;29;$31.04
+Dodge;Dakota;4/26/2018;24;$111.31
+Dodge;Caravan;4/27/2018;24;$181.75
+Ford;Escort;4/28/2018;;$70.23
+Ford;Mustang;4/29/2018;16;$113.37
+Ford;Contour;4/30/2018;17;$35.07
+Ford;Taurus;5/1/2018;15;$245.82
+Ford;Crown Victoria;5/2/2018;16;$63.40
+Ford;Explorer;5/3/2018;19;$276.75
+Ford;Windstar;5/4/2018;17;$155.79
+Ford;Expedition;5/5/2018;24;$125.34
+Ford;Ranger;5/6/2018;30;$220.65
+Ford;F-Series;5/7/2018;24;$540.56
+Honda;Civic;5/8/2018;25;$199.69
+Honda;Accord;5/9/2018;24;$230.90
+Honda;CR-V;5/10/2018;30;$73.20
+Honda;Passport;5/11/2018;21;$12.86
+Honda;Odyssey;5/12/2018;19;$76.03
+Hyundai;Accent;5/13/2018;21;$41.18
+Hyundai;Elantra;5/14/2018;16;$66.69
+Hyundai;Sonata;5/15/2018;23;$29.45
+Infiniti;I30;5/16/2018;18;$23.71
+Jeep;Wrangler;5/17/2018;32;$55.56
+Jeep;Cherokee;5/18/2018;27;$80.56
+Jeep;Grand Cherokee;5/19/2018;24;$157.04
+Lexus;ES300;5/20/2018;19;$24.07
+Lexus;GS300;5/21/2018;23;$12.70
+Lexus;LS400;5/22/2018;31;$6.38
+Lincoln;Continental;5/23/2018;27;$13.80
+Lincoln;Town car;5/24/2018;25;$48.91
+Mitsubishi;Mirage;5/25/2018;25;$26.23
+Mitsubishi;Eclipse;5/26/2018;21;$42.54
+Mitsubishi;Galant;5/27/2018;17;$55.62
+Mitsubishi;Diamante;5/28/2018;20;$5.71
+Mitsubishi;3000GT;5/29/2018;19;$0.11
+Mitsubishi;Montero;5/30/2018;23;$11.34
+Mitsubishi;Montero Sport;5/31/2018;23;$39.35
+Mercury;Mystique;6/1/2018;21;$14.35
+Mercury;Cougar;6/2/2018;22;$26.53
+Mercury;Sable;6/3/2018;15;$67.96
+Mercury;Grand Marquis;6/4/2018;21;$81.17
+Mercury;Mountaineer;6/5/2018;22;$27.61
+Mercury;Villager;6/6/2018;21;$20.38
+Mercedes-B;C-Class;6/7/2018;15;$18.39
+Mercedes-B;E-Class;6/8/2018;30;$27.60
+Mercedes-B;S-Class;6/9/2018;24;$16.77
+Mercedes-B;SL-Class;6/10/2018;25;$3.31
+Nissan;Sentra;6/11/2018;22;$42.64
+Nissan;Altima;6/12/2018;21;$88.09
+Nissan;Maxima;6/13/2018;18;$79.85
+Nissan;Quest;6/14/2018;20;$27.31
+Nissan;Pathfinder;6/15/2018;28;$42.57
+Oldsmobile;Cutlass;6/16/2018;30;$1.11
+Oldsmobile;Aurora;6/17/2018;24;$14.69
+Oldsmobile;Bravada;6/18/2018;21;$20.02
+Oldsmobile;Silhouette;6/19/2018;18;$24.36
+Plymouth;Neon;6/20/2018;21;$32.73
+Plymouth;Breeze;6/21/2018;26;$5.24
+Plymouth;Voyager;6/22/2018;25;$24.16
+Pontiac;Sunfire;6/23/2018;21;$51.65
+Pontiac;Grand Am;6/24/2018;20;$131.10
+Pontiac;Firebird;6/25/2018;26;$19.91
+Pontiac;Grand Prix;6/26/2018;27;$92.36
+Pontiac;Bonneville;6/27/2018;26;$35.95
+Porsche;Boxter;6/28/2018;20;$8.98
